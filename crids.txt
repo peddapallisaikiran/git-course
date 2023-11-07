@@ -1,2 +1,0 @@
-user: saikiran
-pass: Akshitha@1
