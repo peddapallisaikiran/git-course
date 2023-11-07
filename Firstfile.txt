@@ -1,3 +1,5 @@
 Hello world. Welcome to Git
-How r you
-i'm fine wbu?
+ How r you
+ i'm fine wbu?
+im good
+submit the data
