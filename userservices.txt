@@ -1,0 +1,2 @@
+The user can read and print the outouts
+and as well as had the access to admin.
